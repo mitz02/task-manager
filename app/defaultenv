@@ -5,11 +5,7 @@ APP_DEBUG=true
 APP_TIMEZONE=UTC
 APP_URL=http://localhost
 # payments
-PAYSTACK_PUBLIC_KEY=pk_live_511fe1da6018d9bd706c16ef680da0faebf39bf1
-PAYSTACK_SECRET_KEY=sk_live_bdcddcfef3ccda8666f827b0ca76da3f4577c12d
-PAYSTACK_PAYMENT_URL=https://api.paystack.co
-PAYSTACK_TEST_MODE=true
-MERCHANT_EMAIL=odogoedwin@gmail.com
+
 
 APP_LOCALE=en
 APP_FALLBACK_LOCALE=en
